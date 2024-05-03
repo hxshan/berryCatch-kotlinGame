@@ -1,10 +1,8 @@
-package com.example.planeshooter
+package com.example.berryCatch
 
 import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
-import android.os.Build
-import androidx.annotation.RequiresApi
 import java.util.Random
 
 class Fruit(context: Context,private val dWidth:Int) {
