@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.planeshooter"
+    namespace = "com.example.berryCatch"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.planeshooter"
+        applicationId = "com.example.berryCatch"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
